@@ -1,0 +1,21 @@
+{
+  "name": "wasif",
+  "version": "1.0.0",
+  "description": "new",
+  "main": "app.js",
+  "scripts": {
+    "test": "clear"
+  },
+  "repository": {
+    "type": "git",
+    "url": "new"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "wasif",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
